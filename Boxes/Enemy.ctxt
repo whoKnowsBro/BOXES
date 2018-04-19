@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemy\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n\ p
+comment1.target=Enemy(java.lang.String,\ Player)
+comment1.text=\r\n\ Creates\ enemy\ with\ (name\ given,\ stats\ based\ on\ player's\ stats)\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Hi,\ this\ is\ me\r\n
+comment3.params=
+comment3.target=int\ worth()
+comment3.text=\r\n\ XP\ value\ of\ enemy\ is\ their\ atk\ value\ (temp)\r\n\ (basically\ idk\ what\ to\ put\ here\ to\ have\ nice\ progression)\r\n
+comment4.params=dmg
+comment4.target=int\ hit(int)
+comment5.params=p
+comment5.target=Item\ drop(Player)
+numComments=6

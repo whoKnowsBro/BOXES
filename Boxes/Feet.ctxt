@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Feet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Feet\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=l\ a\ d\ h\ m
+comment1.target=Feet(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

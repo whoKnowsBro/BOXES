@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Skills
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Skills\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p
+comment1.target=int\ punch(Player)
+comment1.text=\r\n\ *\ Ye\ olde\ Smack\r\n\ *\ Wishers\ always\ have\ a\ chance\ for\ very\ bad\ hits\r\n
+comment2.params=p
+comment2.target=int\ punch(Enemy)
+comment2.text=\r\n\ *\ Ye\ olde\ Smack\ from\ the\ enemy\r\n
+comment3.params=p
+comment3.target=int\ rSkill(Player)
+comment3.text=\r\n\ *\ Warrior\ \=\ 75%\ to\ hit\ higher\ than\ atk\r\n\ *\ Wizard\ \=\ 50%\ damage\ varience\r\n\ *\ Wimp\ \=\ more\ damage\ based\ on\ missing\ hp\r\n\ *\ Wisher\ \=\ 50/50\ deal\ damage\ or\ heal\ up\ to\ 6xAtk\ \r\n\ *\ Wombat\ \=\ 35%\ damage\ varience\r\n
+numComments=4
